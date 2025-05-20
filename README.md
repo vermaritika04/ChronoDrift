@@ -21,7 +21,7 @@ ChronoDrift is a high-speed, adrenaline-pumping racing car game built in Unity, 
 ## 📽️ Gameplay Preview
 
 Watch the gameplay in action:  
-👉 [Insert Link to Video Here]
+👉 https://www.linkedin.com/posts/vermaritika04_gamedevelopment-unity3d-chronodrift-activity-7330432731031445504-wr5t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETKJGIBKx-K_qYZEb4RXQPztCtQeA1oeSE
 
 ---
 
@@ -64,6 +64,7 @@ Press the Play button inside Unity to start racing!
 Currently, this is a solo development project. However, contributions, suggestions, and improvements are always welcome! Feel free to open issues or submit pull requests.
 
 📎 Links
+
 🎮 Gameplay Demo: https://www.linkedin.com/posts/vermaritika04_gamedevelopment-unity3d-chronodrift-activity-7330432731031445504-wr5t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETKJGIBKx-K_qYZEb4RXQPztCtQeA1oeSE
 
 📂 GitHub Repository: https://github.com/vermaritika04/ChronoDrift
